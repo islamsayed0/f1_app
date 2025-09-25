@@ -1,4 +1,4 @@
-# F1 Dashboard (Flutter)
+# F1 App (Flutter)
 
 <p align="center">
   <img src="assets/imags/f1_logo_lanch_app.jpg" alt="App Logo" width="180" />
