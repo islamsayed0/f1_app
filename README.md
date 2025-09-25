@@ -3,12 +3,12 @@
 <p align="center">
   <img src="assets/imags/f1_logo_lanch_app.jpg" alt="App Logo" width="180" />
 </p>
----
+
 Demo
 <p align="center">
   <img src="assets/imags/demo.gif" alt="App Demo" width="360" />
 </p>
----
+
 A simple, production‑ready Flutter app that shows:
 - F1 Drivers list (with team colors and avatars)
 - Latest F1 News (cards + detail screen without WebView)
